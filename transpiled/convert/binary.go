@@ -3,7 +3,7 @@
 package convert
 
 import (
-	"github.com/argennon-project/csgo/internal/api"
+	"github.com/argennon-project/csgo/transpiled/internal/api"
 	"github.com/consensys/gnark/frontend"
 )
 

@@ -3,7 +3,7 @@
 package runtime
 
 import (
-	"github.com/argennon-project/csgo/internal/api"
+	"github.com/argennon-project/csgo/transpiled/internal/api"
 )
 
 import "math/big"

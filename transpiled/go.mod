@@ -1,4 +1,4 @@
-module github.com/argennon-project/csgo
+module github.com/argennon-project/csgo/transpiled
 
 go 1.20
 
